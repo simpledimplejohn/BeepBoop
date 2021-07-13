@@ -1,0 +1,15 @@
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/bin/Debug/net5.0/BeepBoop.deps.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/bin/Debug/net5.0/BeepBoop.runtimeconfig.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/bin/Debug/net5.0/BeepBoop.runtimeconfig.dev.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/bin/Debug/net5.0/BeepBoop.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/bin/Debug/net5.0/ref/BeepBoop.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/bin/Debug/net5.0/BeepBoop.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.csproj.AssemblyReference.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.AssemblyInfoInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.AssemblyInfo.cs
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.csproj.CoreCompileInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/ref/BeepBoop.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/week-7-beepBoop/obj/Debug/net5.0/BeepBoop.genruntimeconfig.cache
